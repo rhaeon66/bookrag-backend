@@ -1,0 +1,140 @@
+[
+  {
+    "question": "Was Muhammad driven out of Mecca?",
+    "expected_pages": [29, 30, 31, 32, 33],
+    "expected_topic": "Chapter III - Was Muhammad Driven Out of Mecca?",
+    "answerable": true
+  },
+  {
+    "question": "What happened during Muhammad's prophetic mission in Mecca?",
+    "expected_pages": [27, 28],
+    "expected_topic": "Chapter III - Prophetic Mission in Mecca (610-622)",
+    "answerable": true
+  },
+  {
+    "question": "What does the book say about Muhammad's early life and birth?",
+    "expected_pages": [24, 25, 26],
+    "expected_topic": "Chapter III - The Birth and Early Life",
+    "answerable": true
+  },
+  {
+    "question": "How did Muhammad deal with the Jews according to the book?",
+    "expected_pages": [62, 63, 64],
+    "expected_topic": "Chapter III - Muhammad's Dealing With the Jews",
+    "answerable": true
+  },
+  {
+    "question": "How did Muhammad deal with the Christians?",
+    "expected_pages": [75, 76],
+    "expected_topic": "Chapter III - Muhammad's Dealing With the Christians",
+    "answerable": true
+  },
+  {
+    "question": "What was the status of non-Muslims in Islam as accorded by Muhammad?",
+    "expected_pages": [97, 98],
+    "expected_topic": "Chapter III - Status of Non-Muslims in Islam",
+    "answerable": true
+  },
+  {
+    "question": "What was the Great Battle of Badr?",
+    "expected_pages": [47, 48],
+    "expected_topic": "Chapter III - The Great Battle of Badr",
+    "answerable": true
+  },
+  {
+    "question": "What happened at the Battle of the Ditch, also known as the Trench?",
+    "expected_pages": [51, 52],
+    "expected_topic": "Chapter III - The Battle of the Ditch (Trench)",
+    "answerable": true
+  },
+  {
+    "question": "How did Muhammad conquer Mecca and capture the Ka'ba?",
+    "expected_pages": [52, 53, 54, 55],
+    "expected_topic": "Chapter III - The Conquest of Mecca and Capture of the Ka'ba",
+    "answerable": true
+  },
+  {
+    "question": "How did Muhammad treat Christian delegations?",
+    "expected_pages": [95, 96],
+    "expected_topic": "Chapter III - Muhammad's Dealing With Christian Delegations",
+    "answerable": true
+  },
+  {
+    "question": "What were the early wars for spreading Islam?",
+    "expected_pages": [107, 108],
+    "expected_topic": "Chapter IV - The Early Wars for Spreading Islam",
+    "answerable": true
+  },
+  {
+    "question": "What does the book say about the spread of Islam into Spain?",
+    "expected_pages": [128, 129],
+    "expected_topic": "Chapter IV - Welcome in Spain",
+    "answerable": true
+  },
+  {
+    "question": "How did so many Hindus survive in India under Islamic rule?",
+    "expected_pages": [132, 133],
+    "expected_topic": "Chapter IV - How So Many Hindus Survived in India?",
+    "answerable": true
+  },
+  {
+    "question": "What does the book mean by conversion by the sword?",
+    "expected_pages": [141, 142],
+    "expected_topic": "Chapter IV - Conversion by the Sword",
+    "answerable": true
+  },
+  {
+    "question": "What is Islamic imperialism according to the Quranic commands and prophetic model?",
+    "expected_pages": [208, 209],
+    "expected_topic": "Chapter V - Islamic Imperialism: Quranic Commands & Prophetic Model",
+    "answerable": true
+  },
+  {
+    "question": "Why does the author argue that Islamic rule is not colonialism?",
+    "expected_pages": [217, 218],
+    "expected_topic": "Chapter V - Why Islamic Rule Is Not Colonialism?",
+    "answerable": true
+  },
+  {
+    "question": "What does the book say about the cultural imperialism of Islam?",
+    "expected_pages": [230, 231],
+    "expected_topic": "Chapter V - The Cultural Imperialism of Islam",
+    "answerable": true
+  },
+  {
+    "question": "What does the book say about the Islamic slave trade?",
+    "expected_pages": [433, 434, 435],
+    "expected_topic": "Chapter VII - Islamic Slave-Trade",
+    "answerable": true
+  },
+  {
+    "question": "What was the connection between the Viking slave trade and Muslims?",
+    "expected_pages": [443, 444],
+    "expected_topic": "Chapter VII - The Viking Slave-Trade & Muslim Connection",
+    "answerable": true
+  },
+  {
+    "question": "How was slavery abolished and what resistance did that face in Muslim countries?",
+    "expected_pages": [461, 462],
+    "expected_topic": "Chapter VII - Abolition of Slavery & Islamic Resistance",
+    "answerable": true
+  },
+  {
+    "question": "According to this book, what recipe does the author give for solving world hunger?",
+    "expected_pages": [],
+    "expected_topic": "not covered by this book",
+    "answerable": false
+  },
+  {
+    "question": "What does the book say about the invention of the telephone?",
+    "expected_pages": [],
+    "expected_topic": "not covered by this book",
+    "answerable": false
+  },
+  {
+    "question": "What year does this book say the Apollo 11 moon landing happened?",
+    "expected_pages": [],
+    "expected_topic": "not covered by this book",
+    "answerable": false
+  }
+]

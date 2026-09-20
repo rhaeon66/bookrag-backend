@@ -1,0 +1,24 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Book PDF and everything derived from it (BM25 index, Chroma DB, embedding
+# cache, ingestion manifest) contain substantial extracted text from the
+# source book and are kept out of version control on purpose -- run
+# `python scripts/ingest.py` locally after adding your own copy of the PDF.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/chroma/*
+!data/chroma/.gitkeep
+
+# OS
+.DS_Store

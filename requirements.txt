@@ -1,0 +1,33 @@
+# Backend
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+
+# PDF processing
+pymupdf
+
+# Text processing / tokenization (HuggingFace tokenizer matching the embedding model)
+transformers
+tokenizers
+
+# Embeddings
+sentence-transformers
+numpy
+
+# Vector database
+chromadb
+
+# Lexical retrieval
+rank-bm25
+
+# LLM (local, via Ollama)
+ollama
+
+# Utilities
+python-dotenv
+
+# Testing
+pytest
+httpx
