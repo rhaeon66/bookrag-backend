@@ -248,3 +248,5 @@ Designed to run on ~8GB RAM with no dedicated GPU:
   (`EMBEDDING_CACHE_DIR`) so re-ingesting doesn't recompute unchanged chunks.
 - A GPU is used automatically when available (`EMBEDDING_DEVICE`/
   `RERANK_DEVICE` auto-detect CUDA/MPS); nothing assumes CUDA is present.
+
+test edit
