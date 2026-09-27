@@ -13,7 +13,12 @@ def get_client():
     import ollama
 
     settings = get_settings()
-    return ollama.Client(host=settings.ollama_base_url, timeout=settings.llm_request_timeout)
+    headers = {"Authorization": f"Bearer {settings.ollama_api_key}"} if settings.ollama_api_key else None
+    return ollama.Client(
+        host=settings.ollama_base_url,
+        headers=headers,
+        timeout=settings.llm_request_timeout,
+    )
 
 
 def generate(system_prompt: str, user_prompt: str, settings: Optional[Settings] = None) -> str:

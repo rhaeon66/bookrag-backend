@@ -22,3 +22,6 @@ data/chroma/*
 
 # OS
 .DS_Store
+
+# Streamlit
+.streamlit/secrets.toml

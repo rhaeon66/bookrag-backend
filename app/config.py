@@ -97,6 +97,8 @@ class Settings(BaseSettings):
     # --- LLM (local, via Ollama — no external/paid API key required) ---
     llm_provider: str = "ollama"  # only "ollama" is implemented; kept configurable for future providers
     ollama_base_url: str = "http://localhost:11434"
+    # Only needed for Ollama Cloud (OLLAMA_BASE_URL=https://ollama.com); sent as a Bearer token.
+    ollama_api_key: Optional[str] = None
     llm_model: str = "qwen2.5:3b"
     llm_temperature: float = 0.1
     llm_max_tokens: int = 1024
